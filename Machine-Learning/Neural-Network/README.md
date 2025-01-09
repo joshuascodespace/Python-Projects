@@ -5,7 +5,8 @@ Implements a neural network that learns to correctly identify hand-written digit
 Shows the accuracy of the neural network in each epoch and shows the accuracy of the algorithm's gradient descent via finite differencing.
 
 ### `trainx.csv`
-These are the images of hand written digits the neural network is trained on.
+_THIS FILE CANNOT BE UPLOADED TO GITHUB BECAUSE IT IS TOO LARGE_
+These are the images of hand written digits the neural network is trained on. 
 
 ### `testx.csv`
 These are the images of hand written digits the neural network is tested on.
