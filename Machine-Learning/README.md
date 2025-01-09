@@ -1,3 +1,5 @@
+All code either fully created by me or translated by myself into python from another person's pre-existing Julia program. Did not write most comments myself.
+
 ### Blackjack-Solved
 This program users Reinforcement Learning to discover an optimal policy for blackjack. In other words, the output of this program tells a person the best move to make at any point in a game of blackjack. 
 
