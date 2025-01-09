@@ -6,6 +6,9 @@ This program uses reinforcement learning to find the best decisions for a gamble
 
 A gambler bets an amount of money and then flips a coin. If the coin lands head, the gambler doubles the money bet. If the coin lands tails, the gambler loses the money bet. The gambler's goal is to get 100 cents, in which case they win. The gambler must bet until they either run out of money, or reach this sum.
 
+### K-Means-Clustering
+Implements K-Means-Clustering to categorize data into four different groups
+
 ### Neural-Network
 Implements a neural network that learns to correctly identify hand-written digits. Finite Differencing is then used to test the accuracy of the gradient descent used in this neural network.
 
